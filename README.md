@@ -1,5 +1,6 @@
 # ExpenseTracker
 MERN Mini Project
+
 **Expense Tracker Installation Process:**
 
 1. **Navigate to Project Directory:**
